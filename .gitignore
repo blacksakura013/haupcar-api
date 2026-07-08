@@ -127,7 +127,7 @@ dist
 
 # pnpm
 .pnpm-store
-
+uploads/*
 # yarn v3
 .pnp.*
 .yarn/*
